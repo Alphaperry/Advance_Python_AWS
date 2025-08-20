@@ -35,7 +35,7 @@
 # print(nasted_list[3])
 # print(nasted_list[3][1])
 
-list2 = ["edmund", "kien", "nelson"]
+# list2 = ["edmund", "kien", "nelson"]
 # list2.append("perry")
 # print(list2)
 # list2.insert(1, "perry")

@@ -109,4 +109,5 @@
  
 # c = x // t 
 # print(c)
-
+# set = {2,4,5,6}
+# print(set[1])
