@@ -22,7 +22,12 @@
 # num = {1,2,3,4,5,6}
 # # print(num)
 # print(type(num))
+
+# name = "perry"
+# name.append
 # name = {10, "name", True}
+# print(type(name))
+
 # print(name)
 # print(type(name))
 # print(name[1])
@@ -78,3 +83,7 @@
 # frozen = frozenset(num1)
 # print(type(frozen))
 # frozen.appand(3)
+s1 = { 1,3,5 ,1}
+print(s1)
+s2 = {1,2,3,4,6,7}
+print(s1.union(s2))
