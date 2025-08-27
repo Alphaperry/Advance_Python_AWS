@@ -18,12 +18,13 @@ dict2 = {"perry": 20, "nelson": 25, "mba": 30}
 #                 "drinks": {"types": ["top", "malta" ], "price": [500, 700 ] },
 #                 "food": {"garri": 20, "rice": 750}      
 #             }
-# # print(store_items.keys())
-# # print(store_items.values())
-# # print(store_items["drinks"])
-# # print(store_items["fruits"]["tomatoe"])
-# # print(store_items.values())
-# # print(store_items["drinks"].values())
+# print(store_items.keys())
+# print(store_items.values())
+# print(store_items["food"]["rice"])
+# print(store_items["drinks"])
+# print(store_items["fruits"]["tomatoe"])
+# print(store_items.values())
+# print(store_items["drinks"].values())
 # print(store_items["price"])
 
 # my_dict = {"name1": "perry", "name2": "nelson"}
@@ -40,3 +41,5 @@ dict2 = {"perry": 20, "nelson": 25, "mba": 30}
 # del my_dict["name2"] 
 # print(my_dict)
 # print(name1)
+# 
+# mydict = {}
